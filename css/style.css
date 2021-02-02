@@ -1,0 +1,46 @@
+body{
+	background: linear-gradient(rgba(0,150,136,0.7),rgba(255,255,255,0.3)), url(../image/iceland.jpg);
+	background-attachment: fixed;
+    background-size: 100%;
+	font-family: "roboto";
+	font-size: 20px;
+	margin-left: 50px;
+	margin-right: 50px;
+}
+
+mark{
+	background-color: white;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+select{
+	background-color: #9ad4c0;
+	padding: 5px;
+	font-size: 15px;
+}
+
+pre{
+	font-family: "Teko";
+	font-size: 35px;
+}
+
+.box{
+	background-color: #6dc5bd;
+	padding: 20px;
+}
+
+#box_1{
+	background-color: #9ad4cf;
+	padding: 10px;
+}
+
+#box_2{
+	background-color: #9ad4cf;
+	padding: 10px;
+}
+
+#box_3{
+	background-color: #9ad4cf;
+	padding: 10px;
+}
